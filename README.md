@@ -1,4 +1,4 @@
-# Ro-OOF-Roblox-Extension
+# Ro-OOF : Roblox Extension
 
 Ro-OOF is an extension for roblox, which brings additional functions to the website.
 
